@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chukky09
-- 👀 I’m interested in coding and software testing
-- 🌱 I’m currently learning java, JavaScript, flutter and selenium.
-- 💞️ I’m looking to collaborate on software testing projects.
+- 👀 I’m interested in coding and data analytics.
+- 🌱 I’m currently learning python, JavaScript, Sql and Tableau.
+- 💞️ I’m looking to collaborate on data analytic projects.
 - 📫 How to reach me - my email address is hannychuck@gmail.com
 
 <!---
